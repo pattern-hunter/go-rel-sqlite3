@@ -1,4 +1,4 @@
-module github.com/go-rel/sqlite3
+module github.com/pattern-hunter/sqlite3
 
 go 1.20
 
